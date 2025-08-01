@@ -1,8 +1,8 @@
 localizedName: planet1
 mesh: {
-  type: NoieseMesh
-  division:6
-  octagones:3
+  type: NoiseMesh
+  division: 6
+  octaves: 3
   seed: 50
   division: 10
   color1: 376E20
@@ -78,7 +78,7 @@ allowWaves: true
 icon: planet
 defaultCore: core-nucleus
 parent: sun
-solarSystem: sun
+solarSystem: solar-system1
 
 launchCandidates: []
 
