@@ -1,11 +1,35 @@
 localizedName: earth
 mesh: {
-type:SunMesh
-divisions: 5
-octaves: 7
-persistence: 0.9
-scl: 1
-pow: 2
-mag: 0.6
-colorscale:2
-colors: [
+    type:SunMesh
+    divisions: 5
+    octaves: 7
+    persistence: 0.9
+    scl: 1
+    pow: 2
+    mag: 0.6
+    colorscale:2
+    colors: [
+        376E20
+        519C32
+        388F13
+        53CC1F
+    ]
+}
+accessible:true
+visible:true
+hasAtmosphere
+bloom:true
+orbitSpacing: 10
+solarSystem: solar-system
+parent: sun
+orbitRadius: 9000
+drawOrbit: true
+tidalLock: false
+iconColor: #376E20
+icon: commandRally
+
+
+
+
+
+        
