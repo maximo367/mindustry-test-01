@@ -1,1 +1,11 @@
-
+localizedName: earth
+mesh: {
+type:SunMesh
+divisions: 5
+octaves: 7
+persistence: 0.9
+scl: 1
+pow: 2
+mag: 0.6
+colorscale:2
+colors: [
