@@ -15,12 +15,12 @@ mesh: {
         53CC1F
     ]
 }
-accessible: false
+accessible: true
 visible: true
 hasAtmosphere: false
 bloom: true
 orbitSpacing: 10
-solarSystem: solar-system
+solarSystem: solar-system1
 parent: sun
 orbitRadius: 9000
 drawOrbit: true
