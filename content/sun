@@ -1,4 +1,4 @@
-localizedName: earth
+localizedName: sun
 mesh: {
     type:SunMesh
     divisions: 5
@@ -15,10 +15,10 @@ mesh: {
         53CC1F
     ]
 }
-accessible:true
-visible:true
-hasAtmosphere
-bloom:true
+accessible: false
+visible: true
+hasAtmosphere: false
+bloom: true
 orbitSpacing: 10
 solarSystem: solar-system
 parent: sun
